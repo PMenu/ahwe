@@ -487,10 +487,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgb(187, 36, 
 	margin: 0;
 }
 #call-reservation hr {
-	background: #fff;
+	background: #717171;
 }
 #call-reservation h3 {
-	color: #fff;
+	color: #717171;
 	font-weight: 500;
 	font-size: 20px;
 	margin: 5px 0;
